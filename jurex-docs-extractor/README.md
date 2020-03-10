@@ -1,7 +1,7 @@
 # Introduccion 
-Jurex-docs-extractor es un proceso batch encargado de obtener los contratos alojados en la base de Jurex.
+Jurex-docs-extractor es un proceso batch encargado de obtener archivos Blob de una base de datos.
 Los mismos son convertidos de Blob a archivos.Estos son colocados en un directorio del sistema,
- complementario a esto se persiste una referencia de el en una base de datos con la fecha de procesamiento. 
+complementario a esto se persiste una referencia de el en una segunda base de datos con la fecha de procesamiento. 
 # Compilación
 
 Para compilar el proyecto es necesario contar con la instalacion de Maven. Una vez instalado puede ejecutar 
