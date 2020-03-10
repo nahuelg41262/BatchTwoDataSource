@@ -1,0 +1,25 @@
+
+--        CREATE TABLE public.contratos
+--        (
+--            cont_id bigint NOT NULL PRIMARY KEY ,
+--            id_jurex character varying(255) COLLATE pg_catalog."default" NOT NULL,
+--            path_del_archivo character text COLLATE pg_catalog."default" NOT NULL,
+--            fecha_procesamiento date
+--        )
+--        WITH (
+--            OIDS = FALSE
+--        )
+--        TABLESPACE pg_default;
+--
+--        ALTER TABLE public.contratos
+--            OWNER to postgres;
+--
+--            CREATE SEQUENCE public.hibernate_sequence
+--            INCREMENT 1
+--            START 1
+--            MINVALUE 1
+--            MAXVALUE 9223372036854775807
+--            CACHE 1;
+--
+--        ALTER SEQUENCE public.hibernate_sequence
+--            OWNER TO <<OWNER>>;

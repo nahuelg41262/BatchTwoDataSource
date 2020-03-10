@@ -1,0 +1,19 @@
+/target/
+*target/
+bin/
+*iml
+!.mvn/wrapper/maven-wrapper.jar
+maite-ocr/src/main/resources/submodule
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+*.log
+
+## IntelliJ ##
+*.idea/
+/.idea/
